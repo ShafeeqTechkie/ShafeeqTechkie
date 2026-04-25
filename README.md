@@ -9,13 +9,13 @@
 ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝ ╚══▀▀═╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Cybersecurity+%7C+AI%2FML+%7C+Cloud;B.Tech+CSBS+%40+Panimalar+Engineering;Building+AI+KAVACH+%F0%9F%9B%A1%EF%B8%8F;Learning+Through+Code+%F0%9F%92%BB;Threat+Hunter+%7C+SOC+Analyst+in+Training" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=620&lines=Aspiring+Cybersecurity+Analyst+%F0%9F%9B%A1%EF%B8%8F;B.Tech+CSBS+%40+Panimalar+Engineering+College;TANSAM+Cybersecurity+Intern+%7C+Govt.+of+Tamil+Nadu;Builder+of+AI+KAVACH+%E2%80%94+ML+Powered+IDS;Google+Cybersecurity+Certified+%7C+CISCO+Networking;Learning+Through+Code+%F0%9F%92%BB" alt="Typing SVG" />
 
 <br/>
 
-[![](https://img.shields.io/badge/STATUS-ACTIVE_DEFENSE-00FF41?style=for-the-badge&logo=shield&logoColor=black&labelColor=0D1117)](https://github.com/ShafeeqTechkie)
-[![](https://img.shields.io/badge/THREAT_LEVEL-MONITORED-FFD700?style=for-the-badge&logo=radar&logoColor=black&labelColor=0D1117)](https://github.com/ShafeeqTechkie)
-[![](https://img.shields.io/badge/SOC-ONLINE-00BFFF?style=for-the-badge&logo=eye&logoColor=black&labelColor=0D1117)](https://github.com/ShafeeqTechkie)
+[![](https://img.shields.io/badge/STATUS-ACTIVE_DEFENSE-00FF41?style=for-the-badge&logoColor=black&labelColor=0D1117)](https://github.com/ShafeeqTechkie)
+[![](https://img.shields.io/badge/LOCATION-CHENNAI,_TN-00BFFF?style=for-the-badge&logoColor=black&labelColor=0D1117)](https://github.com/ShafeeqTechkie)
+[![](https://img.shields.io/badge/CGPA-8.0%2F10-FFD700?style=for-the-badge&logoColor=black&labelColor=0D1117)](https://github.com/ShafeeqTechkie)
 
 </div>
 
@@ -30,115 +30,171 @@
 
 ```json
 {
-  "name": "Shafeeq S",
-  "alias": "ShafeeqTechkie",
-  "pronouns": "he/him",
-  "location": "Chennai, Tamil Nadu 🇮🇳",
-  "education": "B.Tech CSBS @ Panimalar Engineering College",
-  "focus": ["Cybersecurity", "AI/ML", "Cloud", "Threat Intelligence"],
-  "current_mission": "Building AI KAVACH — ML-powered Intrusion Detection System",
-  "status": "🟢 Available for collaborations & learning",
-  "motto": "Every attack is a lesson. Every defense is a story."
+  "name"       : "Shafeeq S",
+  "alias"      : "ShafeeqTechkie",
+  "pronouns"   : "he/him",
+  "location"   : "Chennai, Tamil Nadu, India",
+  "education"  : "B.Tech CSBS @ Panimalar Engineering College (2024–2028)",
+  "cgpa"       : "8.0 / 10",
+  "focus"      : ["Cybersecurity", "Ethical Hacking", "Network Security", "AI/ML"],
+  "internship" : "Cybersecurity Intern — TANSAM (Govt. of Tamil Nadu)",
+  "goal"       : "Become a skilled Cybersecurity Analyst & defend real-world systems",
+  "contact"    : "shafeeq.connect@gmail.com | +91 9600793923"
 }
 ```
 
 ---
 
-## 🛡️ Defense Grid — System Status
+## 💼 Experience
+
+```bash
+┌──(shafeeq㉿defense-grid)-[~/experience]
+└─$ cat tansam_internship.log
+```
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  TANSAM CYBERSECURITY INTERN                  03/2024 – 04/2024 ║
+║  Tamil Nadu Smart & Advanced Manufacturing Centre               ║
+║  (Government of Tamil Nadu)                        Tamil Nadu   ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  [✓] Conducted reconnaissance using advanced OSINT tools        ║
+║      to trace digital footprints                                 ║
+║                                                                  ║
+║  [✓] Practiced steganography on Kali Linux — hiding &           ║
+║      extracting data from images                                 ║
+║                                                                  ║
+║  [✓] Explored IoT vulnerabilities & implemented basic           ║
+║      cybersecurity countermeasures on smart devices              ║
+║                                                                  ║
+║  [✓] Studied & compared NIST RMF, NIST CSF, and ISO 27005      ║
+║                                                                  ║
+║  [✓] Strengthened hands-on skills in risk management,           ║
+║      network security, and incident response                     ║
+║                                                                  ║
+║  Skills: OSINT · Kali Linux · Steganography · Network Security  ║
+║          IoT Security · Risk Analysis · Cyber Frameworks         ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+> 🥇 **Secured 1st Place** in the Cybersecurity Quiz during TANSAM Internship — awarded **Certificate of Appreciation & Excellence**
+
+---
+
+## 🚀 Projects
+
+### 🛡️ AI KAVACH — Next-Gen Cyber Defense System
+
+```bash
+┌──(shafeeq㉿defense-grid)-[~/projects/ai-kavach]
+└─$ python3 kavach.py --mode detect
+```
+
+```
+[✓] ML Detection Model Loaded.............. SUCCESS
+[✓] Network Traffic Analysis............... ACTIVE
+[✓] Threat Pattern Recognition............. RUNNING
+[✓] Intrusion Detection Engine............. ONLINE
+
+Detection Accuracy  : HIGH
+Test Dataset Result : ACCURATE
+Status              : ACTIVE DEFENSE
+```
+
+> An ML-powered Intrusion Detection System with high detection accuracy on test datasets.  
+> Detects and classifies network-based intrusions in near real-time using Machine Learning.
+>
+> **Skills:** Python · Machine Learning · Intrusion Detection · Dashboard Design · Incident Response
+
+---
+
+### 🔐 Password Strength Checker
+
+```bash
+┌──(shafeeq㉿defense-grid)-[~/projects/pwd-checker]
+└─$ python3 checker.py
+```
+
+```
+[✓] Length check               PASS
+[✓] Uppercase letters          PASS
+[✓] Lowercase letters          PASS
+[✓] Numbers present            PASS
+[✗] Special characters         FAIL
+
+[RESULT] Strength  : MEDIUM
+[TIP]    Add special characters (!@#$%) → upgrade to STRONG
+```
+
+> A Python tool that evaluates password security across multiple criteria and suggests improvements.  
+> **Tech:** Python
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Score | Year |
+|:--|:--|:--:|:--:|
+| B.Tech CSBS | Panimalar Engineering College, Chennai | 8.0 / 10 | 2024 – 2028 |
+| HSE (+2) | Velammal Matric. Hr. Sec. School, Chennai | 76.17% | 2024 |
+| SSLC | Sir Isaac Newton Matriculation School, Nagapattinam | 86.6% | 2022 |
+
+---
+
+## 🏅 Certifications & Achievements
 
 <div align="center">
 
-| Module | Status | Version |
-|:--|:--:|:--:|
-| 🧠 AI/ML Engine | `ACTIVE` | v2.0 |
-| 🔍 Threat Detection | `MONITORING` | v1.4 |
-| ☁️ Cloud Security | `LEARNING` | v0.9 |
-| 🐍 Python Arsenal | `DEPLOYED` | v3.11 |
-| 🔐 SOC Operations | `IN-TRAINING` | v0.5 |
+| | Certification / Achievement |
+|:--:|:--|
+| 🎓 | **Google Cybersecurity Certificate** — Coursera |
+| 🌐 | **CISCO Networking Fundamentals** |
+| 💼 | **TCS iON Career Edge** — Young Professional Program |
+| 🥇 | **1st Place — Cybersecurity Quiz** @ TANSAM Internship |
+| 🏆 | **1st Place — Rhetoric Rumble** Debate @ RMD Engineering College |
+| 📜 | **Certificate of Appreciation & Excellence** — TANSAM |
 
 </div>
 
 ---
 
-## 🚀 AI KAVACH — Signature Project
-
-```bash
-┌──(shafeeq㉿defense-grid)-[~/projects]
-└─$ ./initialize_kavach.sh
-```
-
-```
-[✓] Loading ML Detection Model............. DONE
-[✓] Analyzing Network Traffic Patterns..... DONE
-[✓] Identifying Threat Signatures.......... DONE
-[✓] Baseline Behavioral Analysis........... DONE
-[✓] Anomaly Detection Engine............... ACTIVE
-
-╔═══════════════════════════════════════╗
-║    AI KAVACH — INTRUSION DETECTION    ║
-║    Detection Accuracy  : HIGH         ║
-║    False Positive Rate : LOW          ║
-║    Status              : ACTIVE       ║
-╚═══════════════════════════════════════╝
-```
-
-> **AI KAVACH** is an ML-powered Intrusion Detection System that analyzes network traffic, detects behavioral anomalies, and classifies threats in real time using supervised and unsupervised learning.
-
----
-
-## 📁 Incident Reports
-
-```bash
-┌──(shafeeq㉿defense-grid)-[~/case-studies]
-└─$ ls -la /incident_reports/
-```
-
-| ID | Case | Category | Status |
-|:--|:--|:--|:--:|
-| `IR-001` | Phishing Attack Analysis | Social Engineering | ✅ Closed |
-| `IR-002` | SharePoint Exploitation (CVE-2025-53770) | Web App | 🔎 Investigating |
-| `IR-003` | Command Injection False Positive | Analysis | ✅ Resolved |
-| `IR-004` | Malware Detection Investigation | Endpoint | 🔒 Contained |
-
----
-
-## ⚙️ Tech Arsenal
+## ⚙️ Skills Arsenal
 
 <div align="center">
 
-**Languages & Scripting**
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00FF41)
-![Bash](https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=00FF41)
-![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=sqlite&logoColor=00FF41)
+![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=00BFFF)
+![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00BFFF)
 
 **Cybersecurity**
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=557C94)
-![Wireshark](https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=1679A7)
-![Splunk](https://img.shields.io/badge/Splunk-0D1117?style=for-the-badge&logo=splunk&logoColor=FF6347)
-![Metasploit](https://img.shields.io/badge/Metasploit-0D1117?style=for-the-badge&logo=metasploit&logoColor=E34F26)
-![Nmap](https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logo=nmap&logoColor=00BFFF)
+![OSINT](https://img.shields.io/badge/OSINT-0D1117?style=for-the-badge&logo=searxng&logoColor=FFD700)
+![Steganography](https://img.shields.io/badge/Steganography-0D1117?style=for-the-badge&logo=gnuprivacyguard&logoColor=00FF41)
+![Phishing Detection](https://img.shields.io/badge/Phishing_Detection-0D1117?style=for-the-badge&logo=protonmail&logoColor=FF6347)
+![Security Monitoring](https://img.shields.io/badge/Security_Monitoring-0D1117?style=for-the-badge&logo=datadog&logoColor=9B59B6)
 
-**AI / ML**
+**Frameworks & Standards**
 
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=150458)
-![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=013243)
+![NIST RMF](https://img.shields.io/badge/NIST_RMF-0D1117?style=for-the-badge&labelColor=0D1117&color=FFD700)
+![NIST CSF](https://img.shields.io/badge/NIST_CSF-0D1117?style=for-the-badge&labelColor=0D1117&color=FFD700)
+![ISO 27005](https://img.shields.io/badge/ISO_27005-0D1117?style=for-the-badge&labelColor=0D1117&color=FFD700)
 
-**Cloud & DevOps**
+**Operating Systems & Networking**
 
-![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Azure](https://img.shields.io/badge/Azure-0D1117?style=for-the-badge&logo=microsoftazure&logoColor=0078D4)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Windows](https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&logoColor=0078D4)
+![Networking](https://img.shields.io/badge/Networking_Basics-0D1117?style=for-the-badge&logo=cisco&logoColor=1BA0D7)
+![Technical Docs](https://img.shields.io/badge/Technical_Documentation-0D1117?style=for-the-badge&logo=readthedocs&logoColor=FFFFFF)
 
 </div>
 
 ---
 
-## 📊 System Metrics
+## 📊 GitHub Metrics
 
 <div align="center">
 
@@ -156,37 +212,15 @@
 
 ---
 
-## 🎯 Mission Objectives
-
-```bash
-┌──(shafeeq㉿defense-grid)-[~]
-└─$ cat mission.txt
-```
-
-```
-[PRIMARY OBJECTIVES]
-  [✓] Monitor logs and alerts daily
-  [✓] Investigate suspicious activity patterns
-  [→] Detect and classify potential threats (IN PROGRESS)
-  [→] Respond to incidents with documented playbooks
-  [→] Strengthen system defenses with ML integration
-
-[LONG-TERM GOALS]
-  [ ] Complete cybersecurity certifications (CEH, CompTIA Security+)
-  [ ] Deploy AI KAVACH as open-source project
-  [ ] Contribute to CVE research
-  [ ] Land first SOC Analyst / Security Engineer role
-```
-
----
-
-## 🌐 Connect to the Grid
+## 🌐 Connect
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/shafeeq.connect%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:shafeeq.connect@gmail.com)
-[![GitHub](https://img.shields.io/badge/github.com/ShafeeqTechkie-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/ShafeeqTechkie)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/shafeeq-s)
+[![GitHub](https://img.shields.io/badge/ShafeeqTechkie-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/ShafeeqTechkie)
+
+📞 +91 9600793923 &nbsp;|&nbsp; 📍 Chennai, Tamil Nadu, India
 
 </div>
 
@@ -195,14 +229,14 @@
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│   "The quieter you become, the more you are able to hear."  │
-│                                        — Kali Linux Motto   │
-└─────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────┐
+│  "The quieter you become, the more you are able to hear."    │
+│                                         — Kali Linux Motto   │
+└──────────────────────────────────────────────────────────────┘
 ```
 
 <img src="https://komarev.com/ghpvc/?username=ShafeeqTechkie&color=00FF41&style=for-the-badge&label=GRID+VISITORS" />
 
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer&fontColor=0D1117)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer)
 
 </div>
