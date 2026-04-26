@@ -85,10 +85,10 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ShafeeqTechkie&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShafeeqTechkie&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Shafeeq-Cybersec&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shafeeq-Cybersec&layout=compact&theme=tokyonight&hide_border=true"/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ShafeeqTechkie&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Shafeeq-Cybersec&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -98,8 +98,8 @@
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shafeeq.connect@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shafeeq-s)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShafeeqTechkie)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shafeeq-Cybersec)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=ShafeeqTechkie&color=brightgreen&style=for-the-badge)
+![Visitor Count](https://komarev.com/ghpvc/?username=Shafeeq-Cybersec&color=brightgreen&style=for-the-badge)
 
 </div>
